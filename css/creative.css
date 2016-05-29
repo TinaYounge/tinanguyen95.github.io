@@ -52,7 +52,7 @@ p {
 }
 
 .bg-primary {
-    background-color: #f05f40;
+    background-color: pink;
 }
 
 .bg-dark {
@@ -183,7 +183,7 @@ header {
     min-height: auto;
     text-align: center;
     color: #fff;
-    background-image: url(../img/header.jpg);
+    background-image: url(https://s-media-cache-ak0.pinimg.com/736x/86/cc/b0/86ccb054da71164ccc368a54095a6a50.jpg);
     background-position: center;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -392,7 +392,7 @@ fieldset[disabled] .btn-default.active {
 .btn-primary {
     border-color: #f05f40;
     color: #fff;
-    background-color: #f05f40;
+    background-color: pink;
     -webkit-transition: all .35s;
     -moz-transition: all .35s;
     transition: all .35s;
